@@ -32,7 +32,7 @@ If you want to train your own model, please follow the following steps. Two GPUs
 | Gigaword | 37.16	| 17.73	|34.41|
 | DUC2004| 33.16	| 14.7|	30.52|
 
-[详情见论文](https://github.com/caitian521/RCTransformer/blob/master/picture/Improving%20Transformer%20with%20Sequential%20Context%20Representations%20for%20Abstractive%20Text%20Summarization.pdf)
+[details see paper](https://github.com/caitian521/RCTransformer/blob/master/picture/Improving%20Transformer%20with%20Sequential%20Context%20Representations%20for%20Abstractive%20Text%20Summarization.pdf)
 
 
 ## Other
