@@ -20,7 +20,10 @@ If you want to train your own model, please follow the following steps. Two GPUs
 
 ## Testing  
 1. please set configuration in config.py
-2. run python eval_run.py --cuda --lexical --pretrain_emb
+2. run
+ ```bash
+ python eval_run.py --cuda --lexical --pretrain_emb
+ ```
 
 ## Results
 
