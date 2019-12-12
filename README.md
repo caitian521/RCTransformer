@@ -6,7 +6,7 @@
 
 ## Overview 
 
-![Image text](https://github.com/caitian521/RCTransformer/blob/master/picture/overview.png)
+[Image text](https://github.com/caitian521/RCTransformer/blob/master/picture/overview.png)
 
 ## Training
 If you want to train your own model, please follow the following steps. Two GPUs with 12GB memory or more will be helpful.  
