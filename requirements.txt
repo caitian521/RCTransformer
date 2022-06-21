@@ -1,5 +1,5 @@
 sentencepiece==0.1.8
-numpy==1.14.6
+numpy==1.22.0
 summa==1.2.0
 pytorch_pretrained_bert==0.3.0
 rouge==0.3.1
